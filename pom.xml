@@ -5,6 +5,7 @@
   <version>0.0.1-SNAPSHOT</version>
   <name>Yash Maheshwari</name> 
 <build>
+	<finalName>my-maven-docker-project</finalName>
 	<plugins>
 		<plugin>
 			<groupId>org.apache.maven.plugins</groupId>
